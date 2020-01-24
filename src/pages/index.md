@@ -1,21 +1,30 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Carl Peterken BA/BE (Hons)
+image: /img/code-screen.jpg
+heading: What do I do?
+subheading: FRONT END ARCHITECT for Web & Mobile Applications
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Who am I?
+  description: >-
+    I have 15 years experience creating innovative solutions for various
+    organisations across the globe, working as a senior full-stack engineer, a
+    digital strategist, as well as mentoring team members and advocating for
+    positive change.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I'm platform agnostic, having worked across a range of technology stacks,
+  including Microsoft .NET, Ruby on Rails, Node JS and React JS & Native.  What
+  am I passionate about? I like to deliver solutions that aren't just robust &
+  functional, but are also beautiful and engaging. Although I'm a technologist,
+  the user is at the heart of everything I do.  I have strong business acumen,
+  with the ability to consult with, and present to, key stakeholders in any
+  organization. I also believe collaboration is key, and I like to bring the
+  best out of my peers.  My extensive knowledge of technology and business, as
+  well as my passion for improving people’s lives, puts me in a position to make
+  highly-informed decisions and suggestions for the successful delivery of
+  business critical projects.  In my spare time I run the education programme
+  for a local meditation centre (non-profit), as well as produce & direct
+  short-films. 
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +55,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: test
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +73,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
