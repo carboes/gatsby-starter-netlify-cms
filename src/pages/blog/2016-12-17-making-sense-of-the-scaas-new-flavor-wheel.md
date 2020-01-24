@@ -11,11 +11,13 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/code-screen.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Creating a simple React application is easy, but how about one that scales?  We want to develop with many developers over a long period of time, so how should we go about confituring it?
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+`yarn`
+
+`yarn start`
 
 ## What the updates mean to you
 
